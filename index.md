@@ -35,9 +35,7 @@
 - Comunicación efectiva
 - Aprendizaje autónomo
 
-</div>
 
-<div class="main-content">
 
 # Javier Espinoza Condori
 
@@ -87,13 +85,11 @@ Estudiante de tercer año apasionado por el desarrollo de software y la ciberseg
 | Git & GitHub Complete Guide | Udemy | 2026 |
 
 
-</div>
 
 ---
 
 <!-- Página 2: Experiencia + Habilidades detalladas -->
 
-<div style="padding: 48px 60px; background: #0d1117; height: 100%;">
 
 
 ## Habilidades Técnicas
@@ -118,4 +114,3 @@ Estudiante de tercer año apasionado por el desarrollo de software y la ciberseg
 **Pedro Carranza** · Docente de Taller — TECBA
 
 
-</div>
